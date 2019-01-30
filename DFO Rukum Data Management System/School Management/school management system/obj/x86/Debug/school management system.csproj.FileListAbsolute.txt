@@ -1,0 +1,1092 @@
+C:\Users\Vaibhav\Desktop\school management system\school management system\bin\Debug\school management system.exe
+C:\Users\Vaibhav\Desktop\school management system\school management system\bin\Debug\school management system.pdb
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school management system.exe
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school management system.pdb
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmClassFee.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelers.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmStudentRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmRoom.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelInstallments.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmcoursefeesPayment.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentsrecords.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmFeespay.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmFeesPayRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeesPayment.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmFeePaymentRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Vaibhav\Desktop\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHoldersRecords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school management system.exe
+C:\my project\school management system\school management system\obj\x86\Debug\school management system.pdb
+C:\my project\school management system\school management system\bin\Debug\school management system.exe
+C:\my project\school management system\school management system\bin\Debug\school management system.pdb
+C:\my project\school management system\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmRoom.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmStudentRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\my project\school management system\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school management system.exe
+E:\SMS\school management system\school management system\obj\x86\Debug\school management system.pdb
+E:\SMS\school management system\school management system\bin\Debug\school management system.exe
+E:\SMS\school management system\school management system\bin\Debug\school management system.pdb
+E:\SMS\school management system\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmSplash.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+E:\SMS\school management system\school management system\bin\Debug\school management system.exe.config
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+E:\SMS\school management system\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+D:\SMS\school management system\school management system\bin\Debug\School Management System.exe.config
+D:\SMS\school management system\school management system\obj\x86\Debug\School Management System.exe
+D:\SMS\school management system\school management system\obj\x86\Debug\School Management System.pdb
+E:\vaibhav\new folder\Net\Projects\SMS\school management system\school management system\bin\Debug\School Management System.exe.config
+E:\vaibhav\new folder\Net\Projects\SMS\school management system\school management system\obj\x86\Debug\School Management System.exe
+E:\vaibhav\new folder\Net\Projects\SMS\school management system\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.exe
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.pdb
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmSplash.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\Vaibhav\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.exe.config
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.exe
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\bin\Debug\School Management System.pdb
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management Full Source Code\school management system\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\vaibhav.Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+D:\Net\Projects\School Management\school management system\bin\Debug\School Management System.exe.config
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\School Management System.exe
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\School Management System.pdb
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+D:\Net\Projects\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmExamEntry.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentReport.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeReport.resources
+C:\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\School Management\school management system\bin\Debug\School Management System.exe
+C:\School Management\school management system\bin\Debug\School Management System.pdb
+C:\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmExamEntry.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmExamRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksEntry.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmScorecard.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentReport.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmSubectEntry.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords1.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\vaibh02\Desktop\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmExamEntry.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentReport.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\vaibh02\Desktop\17 August 2015\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\vaibh02\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolRecords.resources
+D:\Net\12 sept 2015\School Management\school management system\bin\Debug\School Management System.exe.config
+D:\Net\12 sept 2015\School Management\school management system\obj\x86\Debug\School Management System.exe
+D:\Net\12 sept 2015\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmExamEntry.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentReport.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.FrmUserMaster.resources
+C:\Users\vaibh02\Desktop\12 sept 2015\School Management\school management system\obj\x86\Debug\school_management_system.frmUserGrants.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\School Management System.exe
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\School Management System.pdb
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.AboutBox1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Account_Officer_Window.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Contact_Me.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frm_student.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntry.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturn.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployee.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEventReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmEvents.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmExamEntry.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmFee.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLogin.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmlogs.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmMarksReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Frmclass.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarship.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmstudentReport.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSupplier.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmUserGrants.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmUserMaster.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Librarian_Window.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.FrmSections.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
+C:\Users\Vaibhav-PC\Desktop\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache

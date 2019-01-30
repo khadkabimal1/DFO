@@ -1,0 +1,965 @@
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\School Management System.exe
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\School Management System.pdb
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+C:\Users\Bibek\Desktop\School2.0\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\School Management System.exe
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\School Management System.pdb
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+C:\Users\Bibek\Desktop\office doc\School2.0\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\rptmarks.rpt
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.resx
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.cs
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\rptmarks.cs
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\Properties\Settings.settings
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\School Management System.exe
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\bin\Debug\School Management System.pdb
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\School Management System.exe
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\School Management System.pdb
+C:\Users\Bibek\Desktop\School2.0.1\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+B:\School2.0.1\School Management\school management system\bin\Debug\rptmarks.rpt
+B:\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.resx
+B:\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.cs
+B:\School2.0.1\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+B:\School2.0.1\School Management\school management system\bin\Debug\rptmarks.cs
+B:\School2.0.1\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+B:\School2.0.1\School Management\school management system\bin\Debug\Properties\Settings.settings
+B:\School2.0.1\School Management\school management system\bin\Debug\School Management System.exe.config
+B:\School2.0.1\School Management\school management system\bin\Debug\School Management System.exe
+B:\School2.0.1\School Management\school management system\bin\Debug\School Management System.pdb
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmExpensesForm.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.ExpensesNameWiseReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmExpenses__Report.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+B:\School2.0.1\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+B:\School2.0.1\School Management\school management system\obj\Debug\School Management System.exe
+B:\School2.0.1\School Management\school management system\obj\Debug\School Management System.pdb
+B:\School2.0.1\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+E:\WebStar Project\School Management\school management system\bin\Debug\rptmarks.rpt
+E:\WebStar Project\School Management\school management system\bin\Debug\frmMarksReport.resx
+E:\WebStar Project\School Management\school management system\bin\Debug\frmMarksReport.cs
+E:\WebStar Project\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+E:\WebStar Project\School Management\school management system\bin\Debug\rptmarks.cs
+E:\WebStar Project\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+E:\WebStar Project\School Management\school management system\bin\Debug\Properties\Settings.settings
+E:\WebStar Project\School Management\school management system\bin\Debug\School Management System.exe.config
+E:\WebStar Project\School Management\school management system\bin\Debug\School Management System.exe
+E:\WebStar Project\School Management\school management system\bin\Debug\School Management System.pdb
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBackUpRestore.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmExpensesForm.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.ExpensesNameWiseReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmExpenses__Report.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+E:\WebStar Project\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+E:\WebStar Project\School Management\school management system\obj\Debug\School Management System.exe
+E:\WebStar Project\School Management\school management system\obj\Debug\School Management System.pdb
+E:\WebStar Project\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.exe.config
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.exe
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.pdb
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\rptmarks.rpt
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.resx
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.cs
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\rptmarks.cs
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\Properties\Settings.settings
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.exe
+E:\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.pdb
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBackUpRestore.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExpensesForm.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.ExpensesNameWiseReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExpenses__Report.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+E:\Inventory Crime Investigation\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\rptmarks.rpt
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.resx
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.cs
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\rptmarks.cs
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Properties\Settings.settings
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.exe.config
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.exe
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.pdb
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBackUpRestore.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExpensesForm.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.ExpensesNameWiseReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmExpenses__Report.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Branches_Sales_Party.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.FiscalYearEntry.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_Purchase_from_Party.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_Sales_To_Branch.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_SetUp.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Purchase_Party.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Inventory.Unit_Maintanance.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.exe
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.pdb
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+E:\WebStar Project\Inventory Crime Investigation\School Management\school management system\obj\Debug\school_management_system.DFOForms.frmDistrict.resources
+E:\DFO Rukum\Inventory Crime Investigation\School Management\school management system\bin\Debug\School Management System.exe.config
+E:\DFO Rukum\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.exe
+E:\DFO Rukum\Inventory Crime Investigation\School Management\school management system\obj\Debug\School Management System.pdb
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\School Management System.exe
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\rptmarks.rpt
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\frmMarksReport.resx
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\frmMarksReport.cs
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\frmMarksReport.Designer.cs
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\rptmarks.cs
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Properties\Settings.settings
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\School Management System.exe.config
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.dll
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBackUpRestore.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.BookReturn_Student_1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.BusHoldersRecept.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.CourseFeePayment_Record_Search_.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CommunityForest.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.frmDistrict.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.LeisureForest.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.MainEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.PrivateForest.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.ReligiousForest.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.VDC_MunicipalityEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.VDC_MP_ViewRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmExpensesForm.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.ExpensesNameWiseReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Frm_student.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookEntryRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookentryRecords1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookIssueRecordStaff.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstaff1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookissueRecordstudent1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookReturn_Student_.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookReturn.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBookReturnRecord_Staff_1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmBookSuppliers.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePayment.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmBusFeePaymentRecordcs.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusFeePaymentsReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmBusFeeReceipt.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusHolderRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusholderRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusHolderReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmBusHolders.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentcs.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmclassfeepaymentReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmClassFeePaymentsReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmClassFeesEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmCourseFeePaymentRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmDepartment.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployee_Recordss.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployee.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeepayment.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentReceipt.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeePaymentRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeeRecordss1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEmployeeReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEventRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEventrecords1cs.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEventReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmEvents.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmExamEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmExpenses__Report.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmFee.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmHostel_info.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Frmhosteler.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelerRecords1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelersReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmHostelFeePayment.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelFeePaymentsReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmhostelfeepayRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelfeepayRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmHostelFeeReceipt.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmHostelinfoRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmMarksEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmMarksRecord2.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmMarksReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Frmclass.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSalaryPaymentreport1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmScholarship.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmScholarshippayment.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmScholarshipPaymentReceipt.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmscholarshippaymentRecord1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmScholarshipPaymentsReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmScholarshipRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmStudentBookIssue.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSchoolinfo.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSchoolRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmStudentRecordSearch.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmstudentrecordsearch1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmstudentReport.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSubectEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmSubjectRecords1.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmSupplier.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmTransportationRecord.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmTrasportation.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Branches_Sales_Party.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.FiscalYearEntry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_Purchase_from_Party.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_Sales_To_Branch.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Product_SetUp.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Purchase_Party.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.Unit_Maintanance.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.FrmSections.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.SPLASH.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\School Management System.exe
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\School Management System.pdb
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\School Management System.pdb
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.Illakaentry.resources
+E:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.ILLAKA_ViewRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Data Management System DFO Rukum.exe
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Properties\Settings.Designer.cs
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Properties\Settings.settings
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Data Management System DFO Rukum.exe.config
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.AboutBox1.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFO_Crystal_reports.CFUsrGrpConstitutionActionPlanDetail_Report.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOCrystaRreports.CF_UsrGrp_ActPlnDtlsCrystalReports.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOCrystaRreports.CF_UsrGrp_APDtlReport.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOCrystaRreports.IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.BackupAndRestore.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.C.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CFRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CFUGCAPRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CF_Forest_UserGroup_Constitution_Details.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CF_Forest_UserGroup_Constitution_DetailsRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CF_UsrGrp_ActionPlanDetails.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CF_UsrGrp_ActionPlan_Details_Records.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.Illakaentry.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Contact_Me.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.CommunityForest.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.frmDistrict.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.Illaka_FO_And__VDC_Wise_CF_DetailsRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.ILLAKA_ViewRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.LeisureForest.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.LFRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.PrivateForest.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.PrivateForestRecord.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.ReligiousForest.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.RFRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.VDC_MunicipalityEntry.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.DFOForms.VDC_MP_ViewRecords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frm_Main_Menu.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmChangePasswords.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmLogin.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmLoginDetails.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmlogs.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmPasswordRecovery.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmRegisteredUsersDetails.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmUserGrants.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.frmUserRegistrations.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Inventory.FiscalYearEntry.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school management system 2.0.csproj.GenerateResource.Cache
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\Data Management System DFO Rukum.exe
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\Data Management System DFO Rukum.pdb
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\bin\Debug\Data Management System DFO Rukum.pdb
+D:\DFO Rukum\DFO Rukum Data Management System\School Management\school management system\obj\Debug\school management system 2.0.csprojResolveAssemblyReference.cache

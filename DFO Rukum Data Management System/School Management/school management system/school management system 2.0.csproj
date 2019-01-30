@@ -1,0 +1,995 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{39E4DF22-6364-49B6-B093-297D388220F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>school_management_system</RootNamespace>
+    <AssemblyName>Data Management System DFO Rukum</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Copy of DFO ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\school management system.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;D:\New folder\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;D:\New folder\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\school management system.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;D:\New folder\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;D:\New folder\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Any CPU|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Any CPU\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\School Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Any CPU|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Any CPU\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\school management system.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;D:\New folder\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;D:\New folder\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Users\Vaibhav-PC\Desktop\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\PROJECTS\cooperative\MyProject\Cooperative\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\..\..\PROJECTS\cooperative\MyProject\Cooperative\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\..\..\PROJECTS\cooperative\MyProject\Cooperative\bin\Debug\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\PROJECTS\cooperative\MyProject\Cooperative\bin\Debug\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception">
+      <HintPath>..\..\..\..\PROJECTS\cooperative\MyProject\Cooperative\bin\Debug\Microsoft.Practices.Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Class1.cs" />
+    <Compile Include="Classes\Convert2NepaliDate.cs" />
+    <Compile Include="DFOCrystaRreports\CFUsrGrpConstitutionActionPlanDetail_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\CFUsrGrpConstitutionActionPlanDetail_Report.Designer.cs">
+      <DependentUpon>CFUsrGrpConstitutionActionPlanDetail_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\CF_UsrGrp_ActPlnDtlsCrystalReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\CF_UsrGrp_ActPlnDtlsCrystalReports.Designer.cs">
+      <DependentUpon>CF_UsrGrp_ActPlnDtlsCrystalReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\CF_UsrGrp_APDtlReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\CF_UsrGrp_APDtlReport.Designer.cs">
+      <DependentUpon>CF_UsrGrp_APDtlReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.Designer.cs">
+      <DependentUpon>IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\RptCFUGCAPDetailReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptCFUGCAPDetailReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\RptCFUsrGrpConstDtls.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptCFUsrGrpConstDtls.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\RptCF_UsrGrp_APDtlReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptCF_UsrGrp_APDtlReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DFOCrystaRreports\RptIllakaFOFNVDC_AccTo_CFUGDtls.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptIllakaFOFNVDC_AccTo_CFUGDtls.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DFOForms\BackupAndRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\BackupAndRestore.Designer.cs">
+      <DependentUpon>BackupAndRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\C.F User Group Constitution And ActionPlan Details  .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\C.F User Group Constitution And ActionPlan Details  .Designer.cs">
+      <DependentUpon>C.F User Group Constitution And ActionPlan Details  .cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CFRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CFRecords.Designer.cs">
+      <DependentUpon>CFRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CFUGCAPRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CFUGCAPRecords.Designer.cs">
+      <DependentUpon>CFUGCAPRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CF_Forest_UserGroup_Constitution_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CF_Forest_UserGroup_Constitution_Details.Designer.cs">
+      <DependentUpon>CF_Forest_UserGroup_Constitution_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CF_Forest_UserGroup_Constitution_DetailsRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CF_Forest_UserGroup_Constitution_DetailsRecords.Designer.cs">
+      <DependentUpon>CF_Forest_UserGroup_Constitution_DetailsRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CF_UsrGrp_ActionPlanDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CF_UsrGrp_ActionPlanDetails.Designer.cs">
+      <DependentUpon>CF_UsrGrp_ActionPlanDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CF_UsrGrp_ActionPlan_Details_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CF_UsrGrp_ActionPlan_Details_Records.Designer.cs">
+      <DependentUpon>CF_UsrGrp_ActionPlan_Details_Records.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\Illakaentry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\Illakaentry.Designer.cs">
+      <DependentUpon>Illakaentry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\NepaliDate.cs" />
+    <Compile Include="Classes\NepaliDateDataArray.cs" />
+    <Compile Include="Classes\Num2Wrd.cs" />
+    <Compile Include="clsFunc.cs" />
+    <Compile Include="Connectionstring.cs" />
+    <Compile Include="Contact Me.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Me.Designer.cs">
+      <DependentUpon>Contact Me.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\CommunityForest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\CommunityForest.Designer.cs">
+      <DependentUpon>CommunityForest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\frmDistrict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\frmDistrict.Designer.cs">
+      <DependentUpon>frmDistrict.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.Designer.cs">
+      <DependentUpon>IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\Illaka_FO_And_ VDC_Wise_CF_DetailsRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\Illaka_FO_And_ VDC_Wise_CF_DetailsRecords.Designer.cs">
+      <DependentUpon>Illaka_FO_And_ VDC_Wise_CF_DetailsRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\ILLAKA_ViewRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\ILLAKA_ViewRecords.Designer.cs">
+      <DependentUpon>ILLAKA_ViewRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\LeisureForest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\LeisureForest.Designer.cs">
+      <DependentUpon>LeisureForest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\LFRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\LFRecords.Designer.cs">
+      <DependentUpon>LFRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\PrivateForest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\PrivateForest.Designer.cs">
+      <DependentUpon>PrivateForest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\PrivateForestRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\PrivateForestRecord.Designer.cs">
+      <DependentUpon>PrivateForestRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\ReligiousForest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\ReligiousForest.Designer.cs">
+      <DependentUpon>ReligiousForest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\RFRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\RFRecords.Designer.cs">
+      <DependentUpon>RFRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\VDC-MunicipalityEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\VDC-MunicipalityEntry.Designer.cs">
+      <DependentUpon>VDC-MunicipalityEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\VDC_MP_ViewRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\VDC_MP_ViewRecords.Designer.cs">
+      <DependentUpon>VDC_MP_ViewRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ERPS_DBDataSet.cs">
+      <DependentUpon>ERPS_DBDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ERPS_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ERPS_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm Main Menu .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm Main Menu .Designer.cs">
+      <DependentUpon>frm Main Menu .cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePasswords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePasswords.Designer.cs">
+      <DependentUpon>frmChangePasswords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginDetails.Designer.cs">
+      <DependentUpon>frmLoginDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogs.Designer.cs">
+      <DependentUpon>frmlogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.Designer.cs">
+      <DependentUpon>frmPasswordRecovery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegisteredUsersDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegisteredUsersDetails.Designer.cs">
+      <DependentUpon>frmRegisteredUsersDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserGrants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserGrants.Designer.cs">
+      <DependentUpon>frmUserGrants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserRegistrations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserRegistrations.Designer.cs">
+      <DependentUpon>frmUserRegistrations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFOForms\FiscalYearEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFOForms\FiscalYearEntry.Designer.cs">
+      <DependentUpon>FiscalYearEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\CFUsrGrpConstitutionActionPlanDetail_Report.resx">
+      <DependentUpon>CFUsrGrpConstitutionActionPlanDetail_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\CF_UsrGrp_ActPlnDtlsCrystalReports.resx">
+      <DependentUpon>CF_UsrGrp_ActPlnDtlsCrystalReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\CF_UsrGrp_APDtlReport.resx">
+      <DependentUpon>CF_UsrGrp_APDtlReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.resx">
+      <DependentUpon>IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetailCrystalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\RptCFUGCAPDetailReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptCFUGCAPDetailReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\RptCFUsrGrpConstDtls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptCFUsrGrpConstDtls.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\RptCF_UsrGrp_APDtlReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptCF_UsrGrp_APDtlReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOCrystaRreports\RptIllakaFOFNVDC_AccTo_CFUGDtls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptIllakaFOFNVDC_AccTo_CFUGDtls.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\BackupAndRestore.resx">
+      <DependentUpon>BackupAndRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\C.F User Group Constitution And ActionPlan Details  .resx">
+      <DependentUpon>C.F User Group Constitution And ActionPlan Details  .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CFRecords.resx">
+      <DependentUpon>CFRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CFUGCAPRecords.resx">
+      <DependentUpon>CFUGCAPRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CF_Forest_UserGroup_Constitution_Details.resx">
+      <DependentUpon>CF_Forest_UserGroup_Constitution_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CF_Forest_UserGroup_Constitution_DetailsRecords.resx">
+      <DependentUpon>CF_Forest_UserGroup_Constitution_DetailsRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CF_UsrGrp_ActionPlanDetails.resx">
+      <DependentUpon>CF_UsrGrp_ActionPlanDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CF_UsrGrp_ActionPlan_Details_Records.resx">
+      <DependentUpon>CF_UsrGrp_ActionPlan_Details_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\Illakaentry.resx">
+      <DependentUpon>Illakaentry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Me.resx">
+      <DependentUpon>Contact Me.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\CommunityForest.resx">
+      <DependentUpon>CommunityForest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\frmDistrict.resx">
+      <DependentUpon>frmDistrict.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.resx">
+      <DependentUpon>IllakaForestOfficeAndVDC_AccTo_CFUsrGrpDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\Illaka_FO_And_ VDC_Wise_CF_DetailsRecords.resx">
+      <DependentUpon>Illaka_FO_And_ VDC_Wise_CF_DetailsRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\ILLAKA_ViewRecords.resx">
+      <DependentUpon>ILLAKA_ViewRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\LeisureForest.resx">
+      <DependentUpon>LeisureForest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\LFRecords.resx">
+      <DependentUpon>LFRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\PrivateForest.resx">
+      <DependentUpon>PrivateForest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\PrivateForestRecord.resx">
+      <DependentUpon>PrivateForestRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\ReligiousForest.resx">
+      <DependentUpon>ReligiousForest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\RFRecords.resx">
+      <DependentUpon>RFRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\VDC-MunicipalityEntry.resx">
+      <DependentUpon>VDC-MunicipalityEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\VDC_MP_ViewRecords.resx">
+      <DependentUpon>VDC_MP_ViewRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm Main Menu .resx">
+      <DependentUpon>frm Main Menu .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePasswords.resx">
+      <DependentUpon>frmChangePasswords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginDetails.resx">
+      <DependentUpon>frmLoginDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogs.resx">
+      <DependentUpon>frmlogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordRecovery.resx">
+      <DependentUpon>frmPasswordRecovery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegisteredUsersDetails.resx">
+      <DependentUpon>frmRegisteredUsersDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserGrants.resx">
+      <DependentUpon>frmUserGrants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserRegistrations.resx">
+      <DependentUpon>frmUserRegistrations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFOForms\FiscalYearEntry.resx">
+      <DependentUpon>FiscalYearEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ERPS_DBDataSet.xsc">
+      <DependentUpon>ERPS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ERPS_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ERPS_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ERPS_DBDataSet.xss">
+      <DependentUpon>ERPS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textures-wallpapers-simple-and-beautifull-wood-texture-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesgds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicaps-school.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education_management.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employeesIcon200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usergroup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attendance_list_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teacher_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salary_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\url.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rtewtete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rtewtete1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rtewtete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SnapShot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SnapShot1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fwesfsf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wqeqweqweqewwqe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6Library Management2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15417203-exit-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education_management1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6Library Management.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6Library Management1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6Library Management11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library books desks bookshelf objects antique 2560x1600 wallpaper_wallpaperbeautiful_67.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background books entry4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graduate-Research-background-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-library-table-full-of-books-isolated-on-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2824%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-set-awesome_1449569.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schoolhouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_password_off.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2817%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesgds1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesgds2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicaps-school1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employeesIcon2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attendance_list_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teacher_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salary_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_icon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_icon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15417203-exit-icon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education_management11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wqeqweqweqewwqe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrwrwrwrwserw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\werewsrewrew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\106.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_6380462-Books-and-blackboard.-School-supplies..jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-to-school-pics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-to-school-powerpoint-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bigstock-back-to-school-supplies-and-bo-21368879.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-to-school-pics1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTS-wlppr-1_1600_1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-To-School-Concept-Background-Illustration-Vector-04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dfgdgfdgdf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hhhhhh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27942-services-bank-reconciliation-financial-statement-review-quickbooks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31307856-back-up-icon-internet-button-on-white-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reading-Books-Outdoor-690x431.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1062.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fgfdg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fhfhh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuyuuyu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\September-1-Back-to-School-Bus-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reading-Books-Outdoor-690x4311.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-to-school-powerpoint-backgrounds1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bigstock-back-to-school-supplies-and-bo-213688791.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Copy of DFO ICON.ico" />
+    <Content Include="education_management~1.ico" />
+    <Content Include="Resources\background2.jpg" />
+    <None Include="Resources\DFO ICON5.ico" />
+    <None Include="Resources\DFO ICON4.ico" />
+    <None Include="Resources\DFO ICON3.ico" />
+    <None Include="Resources\DFO ICON2.ico" />
+    <None Include="Resources\DFO ICON1.ico" />
+    <None Include="Resources\DFO ICON.ico" />
+    <None Include="Resources\description.png" />
+    <None Include="Resources\background %282%29.fw.png" />
+    <None Include="Resources\schools1.jpg" />
+    <None Include="Resources\schools.jpg" />
+    <None Include="Resources\background.fw.png" />
+    <None Include="Resources\cbef081d709fe61c46eb7a0831a1ac2a.png" />
+    <None Include="Resources\login_user_profile_account_logout_people_man_human-512.png" />
+    <None Include="Resources\images %283%291.jpg" />
+    <None Include="Resources\images %282%291.jpg" />
+    <None Include="Resources\images %282%29.jpg" />
+    <None Include="Resources\images %281%292.jpg" />
+    <None Include="Resources\images %288%29.jpg" />
+    <None Include="Resources\images %285%292.jpg" />
+    <None Include="Resources\images %286%29.jpg" />
+    <None Include="Resources\images %285%291.jpg" />
+    <None Include="Resources\images %283%29.jpg" />
+    <None Include="Resources\images %281%291.jpg" />
+    <None Include="Resources\rwererwerrwes2.jpg" />
+    <None Include="Resources\moey2.jpg" />
+    <None Include="Resources\wqeqweqweqewwqe2.jpg" />
+    <None Include="Resources\education_management3.png" />
+    <None Include="Resources\images %2828%291.jpg" />
+    <None Include="Resources\werewsrewrew2.jpg" />
+    <None Include="Resources\rwererwerrwes1.jpg" />
+    <None Include="Resources\moey1.jpg" />
+    <None Include="Resources\fhfhh1.jpg" />
+    <None Include="Resources\images %2828%29.jpg" />
+    <None Include="Resources\rtewtete2.jpg" />
+    <None Include="Resources\fgfdg1.jpg" />
+    <None Include="Resources\imagesf.jpg" />
+    <None Include="Resources\31307856-back-up-icon-internet-button-on-white-background1.jpg" />
+    <None Include="Resources\education_management2.png" />
+    <None Include="Resources\22-iim-indore-4.jpg" />
+    <None Include="Resources\1-1-time_1920x12001.jpg" />
+    <None Include="Resources\0-0-time_1920x12001.jpg" />
+    <None Include="Resources\0-1-time_1920x12001.jpg" />
+    <None Include="Resources\wrwrwrwrwserw1.jpg" />
+    <None Include="Resources\User-icon.png" />
+    <None Include="Resources\hhhhhh1.jpg" />
+    <None Include="Resources\003.jpg" />
+    <None Include="Resources\time_1920x12001.jpg" />
+    <None Include="Resources\time_1920x1200.jpg" />
+    <None Include="Resources\Salaries-sml.png" />
+    <None Include="Resources\Wordpad_icon_%28Windows_7%2911.png" />
+    <None Include="Resources\abstract-set-awesome_14495693.jpg" />
+    <None Include="Resources\abstract-set-awesome_14495692.jpg" />
+    <None Include="Resources\abstract-set-awesome_14495691.jpg" />
+    <None Include="Resources\top_image2.jpg" />
+    <None Include="Resources\top_image1.jpg" />
+    <None Include="Resources\top_image.jpg" />
+    <None Include="Resources\url1.png" />
+    <None Include="Resources\magazinesIcon.jpg" />
+    <None Include="Resources\8314929977_28fd740070_z4.jpg" />
+    <None Include="Resources\books.jpg" />
+    <None Include="Resources\wefrweswsed.jpg" />
+    <None Include="Resources\rwererwerrwes.jpg" />
+    <None Include="Resources\werewsrewrew1.jpg" />
+    <None Include="Resources\8314929977_28fd740070_z3.jpg" />
+    <None Include="Resources\Wordpad_icon_%28Windows_7%291.png" />
+    <None Include="Resources\MS-Word-2-icon1.png" />
+    <None Include="Resources\task-manager1.png" />
+    <None Include="Resources\Notepad11.png" />
+    <None Include="Resources\calc.png" />
+    <None Include="Resources\Notepad1.png" />
+    <None Include="Resources\registration_icon_up.png" />
+    <None Include="Resources\img-transaction-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
